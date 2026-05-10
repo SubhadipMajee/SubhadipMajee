@@ -1,50 +1,50 @@
 <div align="center">
 
-<!-- Glitch / Neon Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:1a0533,100:2d1b69&height=220&section=header&text=Subhadip%20Majee&fontSize=65&fontColor=ffffff&fontAlignY=40&stroke=7c3aed&strokeWidth=2&desc=Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20Startup%20Thinker&descAlignY=60&descSize=17&animation=twinkling" />
-
-<br/>
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:2d1b69&height=230&section=header&text=Subhadip%20Majee&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20Startup%20Thinker&descAlignY=58&descSize=18&animation=fadeIn&fontAlign=50" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&width=620&height=45&lines=🚀+Building+products+that+actually+matter;🧠+Full-Stack+%2B+AI+%3D+my+weapon+of+choice;⚡+Always+learning%2C+always+shipping;🤝+Let's+build+something+legendary" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=🚀+Building+products+that+matter;🧠+Full-Stack+%2B+AI+%3D+my+weapon;⚡+Always+learning%2C+always+shipping;🤝+Let's+build+something+legendary" alt="Typing SVG" />
 
 <br/>
 
-<!-- Divider -->
+<!-- Animated line divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- Social Icons with glow effect via shields -->
+<!-- Social Icons (real icons, clean style) -->
 <a href="https://www.instagram.com/subhadip.majee18/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584" />
+  <img src="https://img.icons8.com/fluency/50/instagram-new.png" width="42" title="Instagram"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/subhadip-majee-594725278" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+  <img src="https://img.icons8.com/fluency/50/linkedin.png" width="42" title="LinkedIn"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:sovomajee@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+  <img src="https://img.icons8.com/fluency/50/gmail-new.png" width="42" title="Gmail"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/SubhadipMajee" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  <img src="https://img.icons8.com/fluency/50/github.png" width="42" title="GitHub"/>
 </a>
 
 <br/><br/>
 
-<!-- Profile views + followers -->
-<img src="https://komarev.com/ghpvc/?username=SubhadipMajee&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+<!-- Profile views -->
+<img src="https://komarev.com/ghpvc/?username=SubhadipMajee&style=flat-square&color=7c3aed&label=Profile+Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/SubhadipMajee?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS&logo=github" />
+<img src="https://img.shields.io/github/followers/SubhadipMajee?style=flat-square&color=00d9ff&label=Followers&logo=github&logoColor=white" />
 
 <br/>
 
-<!-- Animated divider -->
+<!-- Animated line divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
+
+
 
 ## 🧬 Who Am I?
 
