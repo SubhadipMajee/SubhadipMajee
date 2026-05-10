@@ -3,31 +3,29 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Subhadip%20Majee&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20Startup%20Thinker&descAlignY=58&descSize=18&animation=fadeIn" />
 
+<!-- Social Icons right below banner -->
+<a href="https://www.instagram.com/subhadip.majee18/">
+  <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="36" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/subhadip-majee-594725278">
+  <img src="https://img.icons8.com/fluency/48/linkedin.png" width="36" />
+</a>
+&nbsp;
+<a href="mailto:sovomajee@gmail.com">
+  <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="36" />
+</a>
+
+<br/><br/>
+
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+real+products+that+matter+%F0%9F%9A%80;Full-Stack+%2B+AI+%3D+my+playground+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%E2%9A%A1;Open+to+collabs+%26+cool+ideas+%F0%9F%A4%9D" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Social Icons -->
-<a href="https://www.instagram.com/subhadip.majee18/">
-  <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/subhadip-majee-594725278">
-  <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:sovomajee@gmail.com">
-  <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&height=40&lines=Building+real+products+that+matter+%F0%9F%9A%80;Full-Stack+%2B+AI+%3D+my+playground+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%E2%9A%A1;Open+to+collabs+%26+cool+ideas+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 </div>
----
-
 ## 🧬 Who Am I?
 
 ```ts
