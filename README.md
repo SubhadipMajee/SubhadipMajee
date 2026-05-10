@@ -1,31 +1,51 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Subhadip%20Majee&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20Startup%20Thinker&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- Glitch / Neon Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:1a0533,100:2d1b69&height=220&section=header&text=Subhadip%20Majee&fontSize=65&fontColor=ffffff&fontAlignY=40&stroke=7c3aed&strokeWidth=2&desc=Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20Startup%20Thinker&descAlignY=60&descSize=17&animation=twinkling" />
 
-<!-- Social Icons right below banner -->
-<a href="https://www.instagram.com/subhadip.majee18/">
-  <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="36" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/subhadip-majee-594725278">
-  <img src="https://img.icons8.com/fluency/48/linkedin.png" width="36" />
-</a>
-&nbsp;
-<a href="mailto:sovomajee@gmail.com">
-  <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="36" />
-</a>
-
-<br/><br/>
+<br/>
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&height=40&lines=Building+real+products+that+matter+%F0%9F%9A%80;Full-Stack+%2B+AI+%3D+my+playground+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%E2%9A%A1;Open+to+collabs+%26+cool+ideas+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&width=620&height=45&lines=🚀+Building+products+that+actually+matter;🧠+Full-Stack+%2B+AI+%3D+my+weapon+of+choice;⚡+Always+learning%2C+always+shipping;🤝+Let's+build+something+legendary" alt="Typing SVG" />
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- Social Icons with glow effect via shields -->
+<a href="https://www.instagram.com/subhadip.majee18/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/subhadip-majee-594725278" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+</a>
+&nbsp;
+<a href="mailto:sovomajee@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+</a>
+&nbsp;
+<a href="https://github.com/SubhadipMajee" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
 
 <br/><br/>
 
+<!-- Profile views + followers -->
+<img src="https://komarev.com/ghpvc/?username=SubhadipMajee&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/SubhadipMajee?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS&logo=github" />
+
+<br/>
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </div>
+
 ## 🧬 Who Am I?
 
 ```ts
