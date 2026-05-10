@@ -13,7 +13,7 @@
 
 <!-- Profile Views + Social badges -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/subhadip.majee18/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhadip-majee-594725278)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/subhadip-majee-594725278)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sovomajee@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=SubhadipMajee&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/SubhadipMajee)
 
