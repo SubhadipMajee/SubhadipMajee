@@ -4,8 +4,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Subhadip%20Majee&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20Startup%20Thinker&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing animation -->
-<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+real+products+that+matter+%F0%9F%9A%80;Full-Stack+%2B+AI+%3D+my+playground+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%E2%9A%A1;Open+to+collabs+%26+cool+ideas+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
 
+<br/>
+
+<!-- Social Icons -->
 <a href="https://www.instagram.com/subhadip.majee18/">
   <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" />
 </a>
@@ -18,22 +23,9 @@
   <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" />
 </a>
 
-</div>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+real+products+that+matter+%F0%9F%9A%80;Full-Stack+%2B+AI+%3D+my+playground+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%E2%9A%A1;Open+to+collabs+%26+cool+ideas+%F0%9F%A4%9D" alt="Typing SVG" />
-</a>
-
-<br/>
-<br/>
-
-<!-- Profile Views + Social badges -->
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/subhadip.majee18/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhadip-majee-594725278)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sovomajee@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=SubhadipMajee&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/SubhadipMajee)
+<br/><br/>
 
 </div>
-
 ---
 
 ## 🧬 Who Am I?
