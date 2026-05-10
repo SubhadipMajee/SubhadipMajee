@@ -19,9 +19,9 @@
 </a>
 
 </div>
-<!-- <a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+real+products+that+matter+%F0%9F%9A%80;Full-Stack+%2B+AI+%3D+my+playground+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%E2%9A%A1;Open+to+collabs+%26+cool+ideas+%F0%9F%A4%9D" alt="Typing SVG" />
-</a> -->
+</a>
 
 <br/>
 <br/>
