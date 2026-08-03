@@ -1,143 +1,82 @@
-# 👋 Hi, I'm Subhadip Majee
+<div align="center">
 
-### Backend Developer | AI Enthusiast | B.Tech CSE (2027)
+# Hi, I'm Subhadip Majee 👋
 
-I enjoy building scalable backend systems, REST APIs, and AI-powered web applications.
+### Backend Developer · AI Enthusiast · B.Tech CSE (2027)
 
-Currently learning:
-- Django
-- FastAPI
-- PostgreSQL
-- System Design
-- Data Structures & Algorithms
+I build scalable backend systems, REST APIs, and AI-powered web applications — with a focus on real-world, India-context products.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhadip-majee-594725278/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SubhadipMajee)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sovomajee@gmail.com)
+
+</div>
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Python · C++ · JavaScript · SQL
+
+**Backend:** Django · FastAPI · REST API 
+
+**Frontend:** React · HTML · CSS 
+
+**Databases:** MySQL 
+
+**AI & Data:** NumPy · Pandas · Matplotlib
+
+**Tools:** Git · GitHub · VS Code · Postman · Render · Supabase
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Job Matcher
-AI-powered resume analysis and job recommendation platform.
+### 🤖 [AI Job Matcher](https://ai-job-matcher-frontend-ten.vercel.app/)
+AI-powered resume analysis and job recommendation platform that parses resumes, gives AI-driven feedback, and matches candidates to relevant roles.
 
-**Tech Stack**
-- FastAPI
-- React
-- PostgreSQL
-- Gemini API
+**Tech Stack:** FastAPI · React · PostgreSQL · Gemini API
 
-**Features**
-- Resume parsing
-- AI feedback
-- Job matching
-- Authentication
+**Key Features:** Resume parsing · AI feedback · Job matching · Authentication
 
-🔗 Live Demo
-🔗 GitHub
+🔗 [Live Demo](https://ai-job-matcher-frontend-ten.vercel.app/) · 🔗 [Frontend Repo](https://github.com/SubhadipMajee/ai-job-matcher-frontend) · 🔗 [Backend Repo](https://github.com/SubhadipMajee/ai-job-matcher-backend)
 
 ---
 
-### 📷 Smart Attendance System
+### 📷 [Smart Attendance System](https://github.com/SubhadipMajee/smart-attendance-system)
+Face recognition-based attendance management system that automates attendance tracking and reporting.
 
-Face recognition attendance management system.
+**Tech Stack:** Python · OpenCV · Flask/Django
 
-**Tech Stack**
-- Python
-- OpenCV
-- Flask/Django
+**Key Features:** Face detection · Attendance reports · Admin dashboard
 
-Features
-- Face Detection
-- Attendance Report
-- Admin Dashboard
-
----
-
-### 🏥 Hospital Queue Management
-
-Appointment booking system for clinics.
-
-Tech Stack
-- Django
-- PostgreSQL
-- Bootstrap
-
-Features
-- Online Appointment
-- Doctor Dashboard
-- Queue Management
-
----
-
-## 💻 Tech Stack
-
-### Languages
-
-Python • C++ • JavaScript • SQL
-
-### Backend
-
-Django
-FastAPI
-REST API
-Node.js
-Express
-
-### Frontend
-
-React
-HTML
-CSS
-Tailwind CSS
-
-### Database
-
-PostgreSQL
-MySQL
-MongoDB
-SQLite
-
-### AI & Data
-
-NumPy
-Pandas
-Matplotlib
-
-### Tools
-
-Git
-GitHub
-VS Code
-Postman
-Render
-Supabase
+🔗 [GitHub Repo](https://github.com/SubhadipMajee/smart-attendance-system)
 
 ---
 
 ## 📈 GitHub Stats
 
-(Stats Card)
+<div align="center">
 
-(Language Card)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubhadipMajee&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhadipMajee&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SubhadipMajee)
 
-(Streak Card)
-
-(Activity Graph)
+</div>
 
 ---
 
 ## 🎯 Currently Learning
 
-- Backend Engineering
+- Backend Engineering & System Design
 - Database Optimization
-- System Design
-- DSA
-- AI Integration
+- Data Structures & Algorithms
+- AI Integration in production systems
 
 ---
 
 ## 📫 Connect
 
-LinkedIn
-
-GitHub
-
-Email
+- **LinkedIn:** [subhadip-majee](https://www.linkedin.com/in/subhadip-majee-594725278/)
+- **GitHub:** [@SubhadipMajee](https://github.com/SubhadipMajee)
+- **Email:** [sovomajee@gmail.com](mailto:sovomajee@gmail.com)
