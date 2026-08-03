@@ -18,11 +18,11 @@ I build scalable backend systems, REST APIs, and AI-powered web applications —
 
 **Languages:** Python · C++ · JavaScript · SQL
 
-**Backend:** Django · FastAPI · REST API 
+**Backend:** Django · FastAPI · REST API · Node.js · Express
 
-**Frontend:** React · HTML · CSS 
+**Frontend:** React · HTML · CSS · Tailwind CSS
 
-**Databases:** MySQL 
+**Databases:** PostgreSQL · MySQL · MongoDB · SQLite
 
 **AI & Data:** NumPy · Pandas · Matplotlib
 
@@ -33,11 +33,16 @@ I build scalable backend systems, REST APIs, and AI-powered web applications —
 ## 🚀 Featured Projects
 
 ### 🤖 [AI Job Matcher](https://ai-job-matcher-frontend-ten.vercel.app/)
-AI-powered resume analysis and job recommendation platform that parses resumes, gives AI-driven feedback, and matches candidates to relevant roles.
+AI-powered resume analysis and job matching platform that extracts skills from a resume, scores it against a job description, pulls live job listings, and helps tailor applications.
 
-**Tech Stack:** FastAPI · React · PostgreSQL · Gemini API
+**Tech Stack:** FastAPI · React · Groq (Llama 3.3) · JSearch API
 
-**Key Features:** Resume parsing · AI feedback · Job matching · Authentication
+**Key Features:**
+- Resume parsing (PDF text extraction)
+- AI-based skill extraction and ATS scoring against a job description
+- Skill matching with matched/missing skills breakdown
+- Live job search via JSearch API (filter by role, location, job type, company type)
+- AI resume optimization/tailoring and cold-email generation for applications
 
 🔗 [Live Demo](https://ai-job-matcher-frontend-ten.vercel.app/) · 🔗 [Frontend Repo](https://github.com/SubhadipMajee/ai-job-matcher-frontend) · 🔗 [Backend Repo](https://github.com/SubhadipMajee/ai-job-matcher-backend)
 
