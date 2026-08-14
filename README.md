@@ -16,13 +16,13 @@ I build scalable backend systems, REST APIs, and AI-powered web applications —
 
 ## 🧰 Tech Stack
 
-**Languages:** Python · C++ · JavaScript · SQL
+**Languages:** Python · C · C++ · JavaScript · SQL
 
-**Backend:** Django · FastAPI · REST API · Node.js · Express
+**Backend:** Django · FastAPI · REST API
 
-**Frontend:** React · HTML · CSS · Tailwind CSS
+**Frontend:** React · HTML · CSS
 
-**Databases:** PostgreSQL · MySQL · MongoDB · SQLite
+**Databases:** MySQL
 
 **AI & Data:** NumPy · Pandas · Matplotlib
 
