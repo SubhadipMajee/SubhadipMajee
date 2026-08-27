@@ -30,7 +30,7 @@
 
 **Databases:** MySQL · PostgreSQL
 
-**AI & Data:** NumPy · Pandas · Matplotlib · Groq
+**AI & Data:** NumPy · Pandas · Matplotlib
 
 **Tools:** Git · GitHub · Docker · Postman · VS Code
 
