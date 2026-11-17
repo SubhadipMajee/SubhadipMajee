@@ -24,11 +24,11 @@
 
 **Languages:** Python · C · C++ · JavaScript · SQL
 
-**Backend:** FastAPI · Django · Flask · REST API
+**Backend:** FastAPI · Django · REST API
 
 **Frontend:** React · HTML · CSS
 
-**Databases:** MySQL · PostgreSQL
+**Databases:** MySQL
 
 **AI & Data:** NumPy · Pandas · Matplotlib
 
