@@ -1,3 +1,4 @@
+
 # Hi, I'm Subhadip Majee 👋
 
 <div align="center">
@@ -28,33 +29,50 @@
 
 **Frontend:** React · HTML · CSS
 
-**Databases:** MySQL
+**Databases:** MySQL · Qdrant
+
+**AI & LLM:** LangChain · LangGraph · RAG · Gemini · Groq · NeMo Guardrails
 
 **AI & Data:** NumPy · Pandas · Matplotlib
 
-**Tools:** Git · GitHub · Docker · Postman · VS Code
+**Tools:** Git · GitHub · Docker · Postman · VS Code · LangSmith · Pydantic Logfire
 
 ---
 
 ## 🚀 Projects
 
+### 🧠 Enterprise Agentic RAG — Scalable Pipeline
+
+Production-oriented RAG system featuring agentic reasoning, intelligent retrieval, document processing, and security guardrails.
+
+**Python · FastAPI · LangGraph · Qdrant · Gemini · Groq · Portkey**
+
+- Built a cyclic agentic workflow using LangGraph with planning, retrieval, response generation, and conversational memory.
+- Integrated NeMo Guardrails to filter off-topic queries, jailbreak attempts, and prompt injection before retrieval.
+- Implemented semantic search using Gemini embeddings and Qdrant Cloud, with FlashRank reranking for improved retrieval relevance.
+- Integrated Portkey LLM Gateway with automatic fallback routing between Groq API keys.
+- Developed local document ingestion pipelines supporting PDF, HTML, TXT, DOCX, and PPTX formats.
+- Added observability using Pydantic Logfire and LangSmith, with a RAGAS-powered evaluation suite.
+
+[GitHub Repository](https://github.com/SubhadipMajee/enterprise-agentic-rag)
+
+---
+
 ### 🤖 AI Job Matcher
 
-AI-powered platform for resume analysis and job matching.
+AI-powered platform for resume analysis, job matching, and resume optimization.
 
 **FastAPI · React · Groq · JSearch API**
 
-* Resume PDF parsing
-* AI skill extraction
-* ATS scoring
-* Matched/missing skills analysis
-* Live job search
-* AI resume optimization
-* Cold-email generation
+- Resume PDF parsing
+- AI-powered skill extraction
+- ATS scoring and resume analysis
+- Matched and missing skills analysis
+- Live job search integration
+- AI resume optimization
+- Cold-email generation
 
-[Live Demo](https://ai-job-matcher-frontend-ten.vercel.app/) ·
-[Frontend](https://github.com/SubhadipMajee/ai-job-matcher-frontend) ·
-[Backend](https://github.com/SubhadipMajee/ai-job-matcher-backend)
+[Live Demo](https://ai-job-matcher-frontend-ten.vercel.app/) · [Frontend](https://github.com/SubhadipMajee/ai-job-matcher-frontend) · [Backend](https://github.com/SubhadipMajee/ai-job-matcher-backend)
 
 ---
 
@@ -64,10 +82,10 @@ Face-recognition-based attendance management system.
 
 **Python · OpenCV · Flask/Django**
 
-* Face detection & recognition
-* Automated attendance
-* Attendance reports
-* Admin dashboard
+- Face detection and recognition
+- Automated attendance tracking
+- Attendance reports
+- Admin dashboard
 
 [GitHub Repository](https://github.com/SubhadipMajee/smart-attendance-system)
 
@@ -91,11 +109,11 @@ Face-recognition-based attendance management system.
 
 ## 📚 Currently Learning
 
-* Backend Engineering
-* System Design
-* Database Optimization
-* Data Structures & Algorithms
-* AI / GenAI
+- Backend Engineering
+- System Design
+- Database Optimization
+- Data Structures & Algorithms
+- AI / GenAI
 
 ---
 
